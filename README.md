@@ -1,7 +1,7 @@
 # Product MCP Server
 A Model Context Protocol (MCP) server that provides comprehensive product management capabilities, allowing AI assistants to interact with your product database for inventory management, analytics, and business intelligence.
 
-<a href="https://www.youtube.com/watch?v=ek1j272iAmc" target="_blank">
+<a 
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDh3NjlxdHB5Zjd3bnZ6Nmhxemhzc2E3YXR1M2sxbzU3ZHJ3cnBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EeG8Wo0dz3q31ww2JU/giphy.gif" alt="Demo GIF" width="700"/>
 </a>
 
