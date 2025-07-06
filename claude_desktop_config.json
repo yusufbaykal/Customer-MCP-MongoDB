@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "product-manager": {
+      "command": "python3",
+      "args": ["-m", "product_mcp.server"],
+      "cwd": "/Users/yusufbaykalogku/Desktop/My Project/Customer-MCP-MongoDB",
+      "env": {
+        "PYTHONPATH": "/Users/yusufbaykalogku/Desktop/My Project/Customer-MCP-MongoDB/src",
+        "MONGODB_URI": "mongodb://localhost:27017",
+        "DATABASE_NAME": "product_management",
+        "LOG_LEVEL": "INFO"
+      }
+    }
+  }
+} 
